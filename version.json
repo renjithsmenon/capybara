@@ -1,14 +1,10 @@
 {
   "ios": {
     "minSupportedVersion": "1.0.0",
-    "latestVersion": "1.0.2",
-    "updateUrl": "https://apps.apple.com/app/id0000000000",
-    "message": "We fixed some bugs and added new things!"
+    "latestVersion": "1.0.2"
   },
   "android": {
     "minSupportedVersion": "1.0.0",
-    "latestVersion": "1.0.2",
-    "updateUrl": "https://play.google.com/store/apps/details?id=com.dhyuthi.libraryapp",
-    "message": "We fixed some bugs and added new things!"
+    "latestVersion": "1.0.2"
   }
 }
