@@ -1,0 +1,15 @@
+{
+  "_comment": "Read by Capybara Kids Library at launch. minSupportedVersion hard-blocks the app and is NON-DISMISSIBLE. NEVER set it to a version that is not already live on the App Store and widely adopted - doing so locks out the entire userbase, including App Review, with no path forward. Raise it only AFTER a release is live, never in the same release.",
+  "ios": {
+    "minSupportedVersion": "1.0.0",
+    "latestVersion": "1.0.2",
+    "updateUrl": "https://apps.apple.com/app/id0000000000",
+    "message": "We fixed some bugs and added new things!"
+  },
+  "android": {
+    "minSupportedVersion": "1.0.0",
+    "latestVersion": "1.0.2",
+    "updateUrl": "https://play.google.com/store/apps/details?id=com.dhyuthi.libraryapp",
+    "message": "We fixed some bugs and added new things!"
+  }
+}
